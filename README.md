@@ -1,2 +1,2 @@
 # Library_Management_System
-Final Project of Proramming for Engineers course
+Final Project of Programming for Engineers course made in teams of 4. Date: November 2019

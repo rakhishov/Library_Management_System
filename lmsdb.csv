@@ -1,0 +1,130 @@
+#;Author;Title;Year;ISBN;Publisher;LLC;Stock
+1;Timur;Banana;;;;;0
+2;;;;;;;0
+3;Booch, Grady;Object-oriented analysis and design with applications;1994;9780805353402, 0805353402;Addison-Wesley;QA76.64 .B66 1994;20
+4;Ross, Carl T. F.;Finite element programs in structural engineering and continuum mechanics;1996;9,78E+12;Woodhead Publishing;TA641    .R67 1996;16
+5;Jacky, Jonathan;The way of Z;1997;521559766;Cambridge University Press,;QA76.73.Z2 .J33 1997;8
+6;Biegler, L.T.;Systematic methods of chemical process design;1997;9780134924229, 0134924223;Prentice Hall PTR,;TP155.7 .B47 1997;2
+7;Bellin, David;The CRC card book;1997;0201895358, 9780201895353;Addison-Wesley;QA76.64  .B437 1997;8
+8;Bennett, Simon;Object-oriented systems analysis and design using UML;1999;9780077094973, 0077094972;McGraw Hill;QA402 .B46 1999;18
+9;Bentley, Jon;Programming pearls;2000;9,78E+12;Addison-Wesley;QA76.6 .B453 2000;16
+10;Lethbridge, Timothy C.;Object-oriented software engineering;2001;0077097610, 9780077097615;McGraw-Hill;QA76.76.D47 .L47 2001;18
+11;Pierce, Benjamin C.;Types and programming languages;2002;9,78E+12;The MIT Press;QA76.7 .P54 2002;9
+12;Gustafsson, Fredrik;Matlab for engineers explained;2003;9,78E+12;Springer;TA345 .G878 2003;1
+13;Robinson, John A.;Software design for engineers and scientists;2004;9780750660808, 0750660805;Newnes;QA76.76.D47 .R63 2004;17
+14;Haupt, Randy L.;Practical genetic algorithms;2004;9,78E+12;Wiley-Interscience;QA402.5 .H387 2004;10
+15;Harel, David;Algorithmics:the spirit of computing;2004;9,78E+12;Addison-Wesley;QA 76  .H2833 1987;1
+16;Yevick, David;A first course in computational physics and object-oriented programming with C++;2005;9,78E+12;Cambridge University Press;QA76.73.C153 .Y48 2005;7
+17;Lauesen, Soren;User interface design:a software engineering perspective;2005;0321181433 , 9780321181435;Pearson Education;QA76.9.U83 .L38 2005;2
+18;Craig, John J.;Introduction to robotics:Mechanics and control;2005;9,78E+12;Pearson Education;TJ211   .C67 2005;8
+19;;Rules of thumb for chemical engineers:a manual of quick, accurate solutions to everyday process engineering problems;2005;9,78E+12;Elsevier;TP151 .R85 2005;16
+20;Sayood, Khalid;Learning programming using MATLAB;2006;9,78E+12;Morgan & Claypool; ;13
+21;Lloyd, Seth;Programming the universe:a quantum computer scientist takes on the cosmos;2006;9,78E+12;Vintage Books;QC174.12 .L57 2006;12
+22;;Handbook of applied algorithms:solving scientific, engineering, and practical problems;2007;9,78E+12;John Wiley & Sons;QA76.9.A43  H353 2008 ;9
+23;;Multi-parametric programming. Volume 1,Theory, algorithms, and programming;2007;9,78E+12;Wiley-VCH;T57.7 .M85 2007;6
+24;;Multi-parametric model-based control. Volume 2,Theory and applications;2007;9,78E+12;Wiley-VCH;T57.7 .M85 2007;5
+25;;Summary of a workshop on software-intensive systems and uncertainty at scale;2007.;9780309108454 (electronic bk.), 0309108454 (electronic bk.);National Academies Press / National Academy Press;QA76.758 .S86 2007eb;2
+26;Grout, Ian.;Digital systems design with FPGAs and CPLDs;2008;9,78E+12;Elsevier;TK7868.D5   .G76 2008;19
+27;;Computational geometry:algorithms and applications;2008;9783540779735, 9783540779742;Springer;QA448.D38 .C65 2008;5
+28;Xue, Dingyu;Solving applied mathematical problems with MATLAB;2009;9781420082500 , 1420082507;CRC Press/Taylor & Francis;TA331   .X84 2009;11
+29;Strang, Gilbert;Introduction to linear algebra;2009;9,78E+12;Wellesley Cambridge Press;QA184   .S78 2009;9
+30;Musto, Joseph C.;Engineering computations:an introduction using MATLAB and Excel;2009;9,78E+12;McGraw - Hill;TA329  .M87 2009;7
+31;Langtangen, Hans Petter;Python scripting for computational science;2009;9,78E+12;Springer;QA76.73.P98   L36 2004;20
+32;;Numerical methods in engineering with MATLAB;2009;9780511812200 (ebook), 9780521191333 (hardback);Cambridge University Press; ;19
+33;;Intelligent robotics and applications:second International Conference, ICIRA 2009, Singapore, December 16 - 18, 2009;2009;9783642108167, 3642108164;Springer;TJ211 .I27 2009;4
+34;;Advances in electrical engineering and computational science;2009;9789048123100, 9789048123117;Springer;TK5 .W655 2008;5
+35;Timur Rakhishov;Beowulf cluster computing with Linux;2010;9,78E+12;MIT Press; ;1
+36;Pratap, Rudra;Getting started with MATLAB:a quick introduction for scientists and engineers;2010;9,78E+12;Oxford University Press;Q183.9 .P73 2010;6
+37;Marcovitz, Alan B,;Introduction to logic design;2010;0073191647, 9780073191645;McGraw-Hill;TK7868.L6  .M355 2010;10
+38;Koffman, Elliot B.;Data structures:abstraction and design using Java;2010;9,78E+12;John Wiley & Sons, Inc.;QA76.73.J38 .K62 2010;19
+39;Deitel, Paul J.;C, how to program:How to program C;2010;9,78E+12;Pearson Education;QA76.73.C15   D44 2010;8
+40;;Game physics pearls;2010;9,78E+12;A K Peters, Ltd;QA76.76.C672   G359 2010;8
+41;;End-to-end game development:creating independent serious games and simulations from start to finish;2010;9780240811796, 0240811798, 9780080952246 (electronic bk.), 0080952240 (electronic bk.);Focal Press /Elsevier;QA76.76.C672 L87 2010;7
+42;;Physically based rendering:from theory to implementation;2010;9780123750792, 0123750792, 9780123785800 (electronic bk.), 0123785804 (electronic bk.);Elsevier Science [distributor],;T385 .P43 2010;6
+43;;FPGAs 101:everything you need to know to get started;2010;9781856177061, 1856177068, 9780080959658 (electronic bk.), 0080959652 (electronic bk.);Newnes/Elsevier;TK7895.G36 S6525 2010;2
+44;Tranquillo, Joseph Vincent;MATLAB for engineering and the life sciences [electronic resources];2011;9781608457113 (electronic bk.);Morgan & Claypool; ;5
+45;Schach, Stephen R.;Object-oriented and classical software engineering;2011;9780073376189, 0073376183;McGraw-Hill Companies;QA76.758 .S318 2011;5
+46;Priestley, Mark;A science of operations:machines, logic and the invention of programming;2011;9781447126355, 9781848825550 ;Springer-Verlag;QA76.6  .P75 2010 ;11
+47;Post, Scott;Applied and computational fluid mechanics;2011;9,78E+12;Jones and Bartlett Publishers;TA357    .P4865 2011;1
+48;Muhammad, Ali;Practical scientific computing;2011;9,78E+12;Woodhead Publishing;QA76.9 .M35 .M85 2011;4
+49;Gregoire, Marc R.;Professional C++;2011;9780470932445 , 0470932449 ;Wiley Pubishing, Inc.;QA76.73.C153   S665 2011;2
+50;Gilat, Amos;MATLAB:an introduction with applications;2011;9,78E+12;Wiley;QA297    .G48 2011;12
+51;Fuhrer, Claus;Computing with Python:an introduction to Python for science and engineering;2011;9,78E+12;Pearson Education Limited;QA76.73.P98 .F84 2013;15
+52;Creese, Robert C.;Geometric programming for design and cost optimization [electronic resource]:with illustrative case study problems and solutions;2011;9781608456116 (electronic bk.);Morgan & Claypool; ;4
+53;Clerman, Norman S.;Modern Fortran;2011;9781139027687 (ebook), 9780521514538 (hardback);Cambridge University Press; ;6
+54;Chang, Mark;Monte Carlo simulation for the pharmaceutical industry:concepts, algorithms, and case studies;2011;9,78E+12;CRC Press;RM301.25 .C46 2011;16
+55;Braude, Eric J.;Software engineering:modern approaches;2011;9,78E+12;John Wiley and Sons, Inc.;QA76.758 .B74 2011;6
+56;Attaway, Stormy;MATLAB:a practical introduction to programming and problem solving;2011;9,78E+12;Butterworth-Heinemann;QA297 .A87 2012;7
+57;;MATLAB;2011;9780123850812 (electronic bk.), 0123850819 (electronic bk.);Butterworth-Heinemann,;QA297 .A87 2011;9
+58;;Pervasive information architecture:designing cross-channel user experiences;2011;9780123820945 (electronic bk.), 0123820944 (electronic bk.), 9780123820952 (electronic bk.), 0123820952 (electronic bk.);Morgan Kaufmann;QA76.5915 .R47 2011eb;11
+59;;Design patterns for embedded systems in C:an embedded software engineering toolkit;2011;9781856177078 (electronic bk.), 1856177076 (electronic bk.), 0080959717 (electronic bk.), 9780080959719 (electronic bk.);Newnes/Elsevier;QA76.73.C15 D685 2011;18
+60;Sogge, Robert L.;Solutions for soil and structural systems using Excel and VBA programs;2012;9,78E+12;Wiley;TA710   .S586 2012;5
+61;Rajlich, Vaclav;Software engineering:the current practices;2012;9,78E+12;CRC Press;QA76.758 .R36 2012;8
+62;Larsen, Ronald W.;Engineering with excel;2012;9,78E+12;Pearson Prentice Hall;TA345 .L37 2002;20
+63;Laplante, Phillip A.;Real-time systems design and analysis:tools for the practitioner;2012;9,78E+12;John Wiley & Sons Inc.;QA76.54  .L37 2012 ;6
+64;Jaluria, Yogesh;Computer methods for engineering with MATLAB applications;2012;9,78E+12;CRC Press;TA345  .J29 2012;14
+65;Ibrahim, Dogan;Using LEDs, LCDs and GLCDs in microcontroller projects;2012;9,78E+12;John Wiley & Sons, Ltd;TK7882.I6 .I185 2012;19
+66;Gittleman, Art;Computing with C# and the .Net Framework;2012;9781449615505, 1449615503;Jones & Bartlett Learning;QA76.73.C154  G58 2012  ;16
+67;Di Jasio, Lucio;Programming 16-bit PIC microcontrollers in C:learning to fly the PIC24;2012;9,78E+12;Newnes;TJ223.P76  D54 2012;1
+68;Berry, Carlotta A.;Mobile robotics for multidisciplinary study;2012;9,78E+12;Morgan & Claypool; ;16
+69;Berger, Hans;Automating with STEP 7 in STL and SCL:programmable controllers SIMATIC S7-300/400;2012;9,78E+12;Publicis Publishing;TJ223 .P76 .B468 2014;16
+70;Berger, Hans;Automating with STEP 7 in LAD and FBD:SIMATIC S7-300/400 programmable controllers;2012;9,78E+12;Publicis Publishing;TJ223.P76   .B468 2012;12
+71;;Design, implementation, and evaluation of virtual learning environments;2012;9781466617704, 9781466617711, 9781466617728;Information Science Reference;LB1044.87 .D475 2012;10
+72;;CUDA application design and development;2012;9780123884268 (electronic bk.), 0123884268 (electronic bk.), 9780123884329 (electronic bk.), 0123884322 (electronic bk.);Morgan Kaufmann;QA76.76.A65 F37 2012;15
+73;;Holistic game development with Unity;2012;9780240819334 (electronic bk.), 0240819330 (electronic bk.), 9780240819341 (electronic bk.), 0240819349 (electronic bk.);Focal Press,;QA76.76.C672 B335 2012;5
+74;;GPU computing gems;2012;9780123859631 (electronic bk.), 0123859638 (electronic bk.), 9780123859648, 0123859646;Morgan Kaufmann/Elsevier;T385 .G6875 2012eb;20
+75;;Analog design and simulation using OrCAD Capture and PSpice;2012;9780080970950 (electronic bk.), 0080970958 (electronic bk.);Newnes / Elsevier;TK7874 .F58 2012eb;16
+76;Norbisrath, Ulrich;Story driven modeling;2013;9781483949253, 1483949257;CreateSpace Independent Publishing Platform;QA76.76.D47 .C67 2013;15
+77;Kiusalaas, Jaan;Numerical methods in engineering with Python 3;2013;9,78E+12;Cambridge University Press;TA345  .K584 2005;13
+78;Hanly, Jeri R.;Problem solving and program design in C;2013;9780273774198, 0273774190;Pearson;QA76.73.C15 .H363 2013;8
+79;Dale, Nell;C plus data structures;2013;9,78E+12;Jones;QA76.73.C153 D334 2003;20
+80;Chlipala, Adam;Certified programming with dependent types:a pragmatic introduction to the Coq proof assistant;2013;9,78E+12;MIT Press; ;17
+81;Berger, Hans;Automating with SIMATIG:controllers, software, programming, data communication, operator control and process monitoring;2013;9783895783876, 9783895786761;Publicis Publishing;TJ223.P76   .B46798 2013;15
+82;Xue, Dingyu;System simulation techniques with MATLAB and Simulink;2014;9781118694350, 9781118694374, 9781118647929;John Wiley & Sons, Ltd.;T57.62 .X84 2014;20
+83;Papadimitriou, Christos H.;Combinatorial optimization:algorithms and complexity;2014;9780486402581, 0486402584;Dover Publications. Inc.;QA402.5 .P37 1982;11
+84;Rowe, Neil C.;Introduction to cyberdeception;2016;9,78E+12;Springer;QA76.9.A25 .R69 2016;2
+85;O'Regan, Gerard;Introduction to the history of computing:a computing history primer;2016;9,78E+12;Springer;QA76.17 .O74 2016;17
+86;;Markov decision processes in practice;2017;9,78E+12;Springer;QA274.7 .M37 2017;7
+87;Doszhan;Dosik's stories;2018;12341234;CPS;1111;1
+88;Abay Kappassov;Programming C++;2019;12344321;NUFYP CPS 2Block;123123;0
+89;Wang, Lingfeng;Modern industrial automation software design:principles and real-world examples;© 2006;9780471683735, 0471683736;John Wiley and Sons, Inc.;T59.5 .W36 2006;3
+90;Garrett, Patrick H.;Advanced instrumentation and computer I/O design:real-time system computer interface engineering;©1994;9,78E+12;IEEE Press; ;2
+91;Garrett, Patrick H.;Advanced instrumentation and computer I/O design:real-time system computer interface engineering;©1994;9780780360136, 0780360133;IEEE Press;TK7887.5 .G368 1994;14
+92;Hahn, Brian D.;Essential Java for scientists and engineers;©2002;9780750659918, 0750659912;Butterworth-Heinemann;QA76.73.J38 .H34 2002;16
+93;Brookshear, J. Glenn;Computer science:an overview;©2009;9780321544285, 0321544285;Pearson Education, Inc.;QA37.3 .B76 2009;10
+94;Mangano, Sal;Mathematica cookbook;©2010;9,78E+12;O'Reilly;QA76.95 .M36 2010;7
+95;Levy, Steven;Hackers:heroes of the computer revolution;©2010;9,78E+12;O'Reilly Media;QA76.6 .L469 2010;6
+96;Ensmenger, Nathan;The computer boys take over:computers, programmers, and the politics of technical expertise;©2010;9,78E+12;MIT Press;QA76.6 .E58 2010;12
+97;Voelz, David;Computational fourier optics:a MATLAB tutorial;©2011;9,78E+12;SPIE Press;TA1637 .V674 2011;3
+98;Schach, Stephen R.;Object-oriented and classical software engineering;©2011;9,78E+12;McGraw-Hill Connect Learn Succeed;QA76.758 .S318 2011;10
+99;Toulson, Rob;Fast and effective embedded systems design:applying the ARM mbed;©2012;9,78E+12;Newnes;TK7895.E42 .T68 2012;5
+100;Sandige, Richard S.;Fundamentals of digital and computer design with VHDL;©2012;9,78E+12;McGraw-Hill Higher Education;TK7868.D5 .S26 2012;8
+101;Gardener, Mark;Beginning R:the statistical programming language;©2012;9781118264126 , 9781118164303, 9781118164303, 9781118226162 , 9781118239377 ;John Wiley & Sons , Inc.;QA276.45.R3  .G37 2012;5
+102;Smith, David M.;Engineering computation with MATLAB;©2013;9780273769132, 0273769138;Pearson Education Limited;TA345 .S585 2013;12
+103;Martinez, Sylvia Libow;Invent to learn:making, tinkering, and engineering in the classroom;©2013;9,78E+12;Constructing Modern Knowledge Press;LB1028.3 .M3818 2013;3
+104;Quarteroni, Alfio;Scientific computing with Matlab and Octave;©2014;9783642453663, 9783642453670;Springer;Q183.9   .Q8313 2006   ;4
+105;Larsen, Ronald W.;Engineering with Excel;©2014;9,78E+12;Pearson Education Limited;TA345 .L37 2014;18
+106;Kung, David C.;Object-oriented software engineering:an agile unified methodology;©2014;9,78E+12;McGraw-Hill;QA76.758 .K86 2014;18
+107;Giannakopoulos, Theodoros;Introduction to audio analysis:a matlab approach;©2014;9,78E+12;Academic Press;TK7881.4  .G53 2014;20
+108;Finkelstein, Ellen;AutoCAD 2015 and AutoCAD LT 2015 Bible;©2014;9,78E+12;Wiley;T385 .F565 2014;17
+109;Dean, John;Introduction to programming with Java:a problem solving approach;©2014;9,78E+12;McGraw-Hill;QA76.73.J38 .D43 2014;19
+110;;Euro-Par 2013:parallel processing workshops;©2014;9783642544194, 9783642544200;Springer;QA76.58 .I58 2014;10
+111;;Fundamental approaches to software engineering:17th international conference, FASE 2014, held as part of the European joint conferences on theory and practice of software, ETAPS 2014, Grenoble, France, April 5-13, 2014, Proceedings;©2014;9783642548031, 9783642548048;Springer;QA76.758 .F89 2014;16
+112;;Knowledge discovery, knowledge engineering and knowledge management:4th International Joint Conference, IC3K 2012, Barcelona, Spain, October 4-7, 2012, Revised selected papers;©2014;9783642541049, 9783642541056;Springer;QA76.9.D343 .K56 2014;18
+113;Reinders, James;High performance parallelism pearls:multicore and many-core programming approaches;©2015;9,78E+12;Elsevier;QA76.642   .H54 2015;14
+114;Pressman, Roger S.;Software engineering:a practitioner's approach;©2015;9,78E+12;McGraw-Hill Education ;QA76.6 .P74 2015;11
+115;Molloy, Derek;Exploring BeagleBone:tools and techniques for building with embedded Linux;©2015;9781118935125, 9781118935132, 9781118935217;John Wiley & Sons, Inc.;TK7895.E42 .M6556 2015;9
+116;Laakmann McDowell, Gayle;Cracking the coding interview:189 programming interview questions and solutions;©2015;9,78E+12;CareerCup;QA76.6 .M34 2015;12
+117;Fan, Xiaocong;Real-time embedded systems:design principles and engineering practices;©2015;9,78E+12;Newnes;TK7895.E42 .F36 2015;9
+118;Bard, Gregory V.;Sage for undergraduates;©2015;9,78E+12;American Mathematical Society;QA155.7.E4 B37 2015;20
+119;Altice, Nathan;I am error:the Nintendo family computer/entertainment system platform;©2015;9,78E+12;MIT Press;GV1469.32 A55 2015;10
+120;;Gray hat hacking:the ethical hacker's handbook;©2015;9,78E+12;McGraw-Hill Education;QA76.9.A25 .G743 2015;3
+121;Cano, Nick;Game hacking:developing autonomous bots for online games;©2016;9,78E+12;No Starch Press, Inc.;QA76.76.I58 .C36 2016;15
+122;Anthony, Richard John;Systems programming:designing and developing distributed applications;©2016;9,78E+12;Morgan Kaufmann;QA76.66 .A58 2016;18
+123;;Hydrocarbon and lipid microbiology protocols:statistics, data analysis, bioinformatics and modelling;©2016;9,78E+12;Springer;QP751 .H93 2016;16
+124;Tolic, Domagoj;Networked control systems with intermittent feedback;©2017;9,78E+12;CRC Press;TJ216 .T64 2017;4
+125;Larsen, Ronald W.;Engineering with Excel;©2017;9780134589664, 0134589661;Pearson;TA345 .L37 2017;9
+126;Heys, Jeffrey J.;Chemical and biomedical engineering calculations using Python;©2017;9,78E+12;John Wiley & Sons, Inc.;TA330 .H49 2017;12
+127;Best, Michael J.;Quadratic programming with computer programs;©2017;9,78E+12;CRC Press;T57.82 .B47 2017;1
+128;Attaway, Stormy;MATLAB:a practical introduction to programming and problem solving;©2017;9,78E+12;Butterworth-Heinemann;QA297 .A87 2017;4
+129;Abdel-Magid, Isam Mohammed;Computer modeling applications for environmental engineers;©2017;9,78E+12;CRC Press;TD192 .A23 2017;11
